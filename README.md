@@ -1,0 +1,1 @@
+# default template for projects
